@@ -6,7 +6,7 @@ Primary style
 
 
 body {
-  font-size: 1.6rem;
+  font-size: 1.6vw;
   font-family: sans-serif;
   background-color: #000;
   -webkit-font-smoothing: antialiased;
@@ -142,7 +142,7 @@ Shared style
     left: calc(50% - 13px);
   }
   .cd-modal p {
-    font-size: 2rem;
+    font-size: 2vw;
   }
 }
 
@@ -200,7 +200,7 @@ Glitch Effect
 }
 .glitch-transition h1, .glitch-transition h2 {
   margin-bottom: .4em;
-  font-size: 4rem;
+  font-size: 4vw;
   font-weight: 700;
 }
 .glitch-transition .cd-btn {
@@ -244,10 +244,10 @@ Glitch Effect
 }
 @media only screen and (min-width: 768px) {
   .glitch-transition h1 {
-    font-size: 8rem;
+    font-size: 8vw;
   }
   .glitch-transition h2 {
-    font-size: 6rem;
+    font-size: 6vw;
   }
 }
 
